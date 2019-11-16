@@ -1,1 +1,1 @@
-worker: node HyperWave.js
+worker: node HyperBot.js
