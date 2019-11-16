@@ -1,0 +1,15 @@
+{
+  "name": "hyperbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HyperBot.js",
+  "scripts": {
+    "start": "node HyperBot,js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ms": "^2.1.2"
+  }
+}
